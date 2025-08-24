@@ -1,4 +1,4 @@
-# WEB115 – Itamar Castillo 🐉
+# WEB115 – Itamar B. Castillo 🐉 || Aethernova
 
 This repository contains my coursework, assignments, and projects for **WEB115 – Web Development**.  
 I will use this repo to practice version control, organize my classwork, and publish web pages when required.
@@ -11,3 +11,4 @@ I will use this repo to practice version control, organize my classwork, and pub
 ## Notes
 - All course assignments will be added here during the semester.  
 - My mascot for this course is a **dragon 🐉**.  
+- Author: **Itamar B. Castillo || Aethernova**
